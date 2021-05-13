@@ -1,0 +1,82 @@
+.sarch{
+	width: 40px;
+}
+.flex{
+	display: flex;
+	justify-content: space-around;
+	list-style: none;
+	align-items: center;
+}
+.atag{
+	margin-right: 40px;
+	text-decoration: none;
+}
+.middle-image{
+	position: relative;
+}
+.position{
+	position: absolute;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 30px;
+	width: 300px;
+	height: 100px;
+	text-align: center;
+	background-color: white;
+	top: 400px;
+	left: 500px;
+}
+.content{
+	background-color: green;
+	display: flex;
+	justify-content: space-around;
+	width: 1300px;
+	height: 500px;
+}
+.text{
+	width: 300px;
+}
+.book{
+	margin-top: 100px;
+	height: 300px;
+}
+.wraper-content{
+	width: 300px;
+}
+.something{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.last{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.blog{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.end{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 150px;
+	height: 50px;
+	background-color: gray;
+}
+.footer{
+	display: flex;
+	justify-content: space-around;
+	background-color: red;
+}
+.ultag{
+	display: flex;
+	list-style: none;
+}
+.last{
+	margin-right: 40px;
+	text-decoration: none;
+}
